@@ -25,14 +25,14 @@ Please feel free to report an **Issue** or ask for a **feature** that you want t
 ## Installation
 Clone this repository
 ```bash
-$ git clone https://github.com/mjunaidsalaat/TheFoodShop.git
+$ git clone https://github.com/mauryaajay5/restoapp
 $ cd TheFoodShop
 $ bower install
 
 $ ionic serve
 // locally serve ionic project
 
-// SignUp or Use email: 'mj@mj.com' pass : 'mj' for quick access.
+// SignUp or Use email: 'ajaymaurya08072002@gmail.com' pass : 'mj' for quick access.
 ```
 
 ```bash
